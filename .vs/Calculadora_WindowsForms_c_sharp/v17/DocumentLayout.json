@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|c:\\users\\douglas barreto\\documents\\github\\calculadora_windowsforms_c_sharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|c:\\users\\douglas barreto\\documents\\github\\calculadora_windowsforms_c_sharp\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|c:\\users\\douglas barreto\\documents\\github\\calculadora_windowsforms_c_sharp\\calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|solutionrelative:calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|c:\\users\\douglas barreto\\documents\\github\\calculadora_windowsforms_c_sharp\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|c:\\users\\douglas barreto\\documents\\github\\calculadora_windowsforms_c_sharp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|c:\\users\\douglas barreto\\documents\\github\\calculadora_windowsforms_c_sharp\\calculadora_windowsforms_c_sharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2426CE43-8B42-4D5A-98B3-C1F9104E8D90}|Calculadora_WindowsForms_c_sharp.csproj|solutionrelative:calculadora_windowsforms_c_sharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora.cs [Projeto]",
+              "RelativeToolTip": "Calculadora.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:52:34.306Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora.Designer.cs",
+              "RelativeDocumentMoniker": "Calculadora.Designer.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora.Designer.cs",
+              "RelativeToolTip": "Calculadora.Designer.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAAqwC0BAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:50:25.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAYwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T23:00:28.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAUwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:52:25.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculadora_WindowsForms_c_sharp",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora_WindowsForms_c_sharp.csproj",
+              "RelativeDocumentMoniker": "Calculadora_WindowsForms_c_sharp.csproj",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Calculadora_WindowsForms_c_sharp.csproj",
+              "RelativeToolTip": "Calculadora_WindowsForms_c_sharp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T22:51:20.356Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -63,18 +143,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Calculadora_WindowsForms_c_sharp\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T22:38:12.788Z",
-              "EditorCaption": " [Projeto]"
             }
           ]
         }
